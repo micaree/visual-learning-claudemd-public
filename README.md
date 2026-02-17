@@ -8,3 +8,5 @@ A Claude.md template emphasizing
 - externalised configuration in one place
 
 with the aim of writing testable, reliable, maintainable and extendable code.
+
+This project was developed with assistance from Claude (Anthropic).
